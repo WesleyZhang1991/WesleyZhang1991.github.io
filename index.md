@@ -25,21 +25,15 @@ Email: zhangyuqi1991@gmail.com
 - We rank 2nd on the Detection Track for [Large Scale 3D Human Activity Analysis Challenge in Depth Videos](http://www.icst.pku.edu.cn/struct/icmew2017/index.html) in ICME 2017 Workshop [[Result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)].
 
 
-
 ## Publications
 
-- [A comprehensive study on gait biometrics using a joint CNN-based method](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301694)
-  Yuqi Zhang, Yongzhen Huang, Liang Wang, Shiqi Yu
-  Pattern Recognition, 2019
-- [Cross-view gait recognition by discriminative feature learning](https://ieeexplore.ieee.org/abstract/document/8759096)
-  Yuqi Zhang, Yongzhen Huang, Shiqi Yu, Liang Wang
-  TIP, 2019
-- [Multi-task deep learning for fast online multiple object tracking](https://ieeexplore.ieee.org/abstract/document/8575813)
-  Yuqi Zhang, Yongzhen Huang, Liang Wang
-  ACPR, 2017
-- [What makes for good multiple object trackers?](https://ieeexplore.ieee.org/abstract/document/7868601)
-  Yuqi Zhang, Yongzhen Huang, Liang Wang
-  DSP, 2016
-- [Scene text recognition with deeper convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/7351229)
-  Yuqi Zhang, Wei Wang, Liang Wang, Liuan Wang
-  ICIP, 2015
+* [A comprehensive study on gait biometrics using a joint CNN-based method](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301694)  
+  **Yuqi Zhang**, Yongzhen Huang, Liang Wang, Shiqi Yu, Pattern Recognition(PR), 2019
+* [Cross-view gait recognition by discriminative feature learning](https://ieeexplore.ieee.org/abstract/document/8759096)  
+  **Yuqi Zhang**, Yongzhen Huang, Shiqi Yu, Liang Wang, IEEE Transactions on Image Processing(TIP), 2019
+* [Multi-task deep learning for fast online multiple object tracking](https://ieeexplore.ieee.org/abstract/document/8575813)  
+  **Yuqi Zhang**, Yongzhen Huang, Liang Wang, Asian Conference on Pattern Recognition(ACPR), 2017
+* [What makes for good multiple object trackers?](https://ieeexplore.ieee.org/abstract/document/7868601)  
+  **Yuqi Zhang**, Yongzhen Huang, Liang Wang, IEEE Conference on Digital Signal Processing(DSP), 2016
+* [Scene text recognition with deeper convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/7351229)  
+  **Yuqi Zhang,** Wei Wang, Liang Wang, Liuan Wang, IEEE International Conference on Image Processing (ICIP), 2015
