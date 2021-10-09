@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Yuqi Zhang 张宇琪
 
-You can use the [editor on GitHub](https://github.com/WesleyZhang1991/WesleyZhang1991.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Senior Algorithm Engineer at Alibaba DAMO Academy
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: zhangyuqi1991@gmail.com
 
-### Markdown
+## Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- In 2019, I received Ph.D. degree in Institute of Automation Chinese Academy of Sciences ([CASIA](http://www.ia.cas.cn/)) under the supervision of Prof. [Liang Wang](http://sourcedb.ia.cas.cn/cn/iaexpert/201010/t20101013_2986122.html).
+- In 2014, I received the Bachelor degree from Harbin Institute of Technology([HIT](http://en.hit.edu.cn/)) in Department of Control Science and Engineering.
+- My research interests include computer vision, image retrieval, video understanding in surveillance and object tracking.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Activity
 
-1. Numbered
-2. List
+- We rank the 2nd (2/263, top1%) place for Google Landmark Retrieval Competition on ICCV 2021. Also silver medal for Google Landmark Recognition Competition.  [[kaggle post](https://www.kaggle.com/c/landmark-retrieval-2021/discussion/277273)] [[code](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution)] [[paper](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution/blob/master/ILR2021_2nd_solution.pdf)] [[results](https://www.kaggle.com/c/landmark-retrieval-2021/leaderboard)]
+- We rank the 1st place for [Multi-camera Multi-Person tracking](https://iccv2021-mmp.github.io/) on ICCV 2021 [[results](https://competitions.codalab.org/competitions/33729#results)]
+- We rank the 1st place for [AICITY Challenge](https://www.aicitychallenge.org/) Track3 Multi-camera Vehicle Tracking on CVPR 2021. [[code](https://github.com/LCFractal/AIC21-MTMC)] [[paper](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Liu_City-Scale_Multi-Camera_Vehicle_Tracking_Guided_by_Crossroad_Zones_CVPRW_2021_paper.pdf)]
+- We rank the 1st place for [AICITY Challenge](https://www.aicitychallenge.org/) Track2 Vehicle Re-Identification on CVPR 2021. [[code](https://github.com/michuanhaohao/AICITY2021_Track2_DMT)] [[paper](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Luo_An_Empirical_Study_of_Vehicle_Re-Identification_on_the_AI_City_CVPRW_2021_paper.pdf)]
+- We rank the 1st place for [Tracking Any Objects(TAO) Challenge](https://motchallenge.net/results/TAO_Challenge/) on ECCV 2020. [[code](https://github.com/feiaxyt/Winner_ECCV20_TAO)] [[paper](https://arxiv.org/abs/2101.08040)]
+- We rank the 1st place for [Visual Domain Adaptation Challenge(VisDA)](http://ai.bu.edu/visda-2020/) on ECCV 2020. [[code](https://github.com/vimar-gu/Bias-Eliminate-DA-ReID)] [[paper](https://arxiv.org/abs/2012.13498)]
+- We rank the 3rd place for [AICITY Challenge](https://www.aicitychallenge.org/2020-ai-city-challenge/) Track2 Vehicle Re-Identification on CVPR 2020. [[code](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)] [[paper](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w35/He_Multi-Domain_Learning_and_Identity_Mining_for_Vehicle_Re-Identification_CVPRW_2020_paper.pdf)]
+- We rank 2nd on the Recognition Track for [Large Scale 3D Human Activity Analysis Challenge in Depth Videos](http://www.icst.pku.edu.cn/struct/icmew2017/index.html) in ICME 2017 Workshop [[Result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)].
+- We rank 2nd on the Detection Track for [Large Scale 3D Human Activity Analysis Challenge in Depth Videos](http://www.icst.pku.edu.cn/struct/icmew2017/index.html) in ICME 2017 Workshop [[Result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)].
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Publications
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WesleyZhang1991/WesleyZhang1991.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [A comprehensive study on gait biometrics using a joint CNN-based method](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301694)
+  Yuqi Zhang, Yongzhen Huang, Liang Wang, Shiqi Yu
+  Pattern Recognition, 2019
+- [Cross-view gait recognition by discriminative feature learning](https://ieeexplore.ieee.org/abstract/document/8759096)
+  Yuqi Zhang, Yongzhen Huang, Shiqi Yu, Liang Wang
+  TIP, 2019
+- [Multi-task deep learning for fast online multiple object tracking](https://ieeexplore.ieee.org/abstract/document/8575813)
+  Yuqi Zhang, Yongzhen Huang, Liang Wang
+  ACPR, 2017
+- [What makes for good multiple object trackers?](https://ieeexplore.ieee.org/abstract/document/7868601)
+  Yuqi Zhang, Yongzhen Huang, Liang Wang
+  DSP, 2016
+- [Scene text recognition with deeper convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/7351229)
+  Yuqi Zhang, Wei Wang, Liang Wang, Liuan Wang
+  ICIP, 2015
