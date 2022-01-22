@@ -6,7 +6,7 @@ Email: zhangyuqi1991@gmail.com
 
 ## Biography
 
-- In 2019, I received Ph.D. degree in Institute of Automation Chinese Academy of Sciences ([CASIA](http://www.ia.cas.cn/)) under the supervision of Prof. [Liang Wang](http://sourcedb.ia.cas.cn/cn/iaexpert/201010/t20101013_2986122.html).
+- In 2019, I received Ph.D. degree in Institute of Automation Chinese Academy of Sciences ([CASIA](http://www.ia.cas.cn/)) under the supervision of Prof. [Liang Wang](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/201010/t20101013_2986122.html).
 - In 2014, I received the Bachelor degree from Harbin Institute of Technology([HIT](http://en.hit.edu.cn/)) in Department of Control Science and Engineering.
 - My research interests include computer vision, image retrieval, video understanding in surveillance and object tracking.
 
@@ -24,16 +24,21 @@ Email: zhangyuqi1991@gmail.com
 - We rank 2nd on the Recognition Track for [Large Scale 3D Human Activity Analysis Challenge in Depth Videos](http://www.icst.pku.edu.cn/struct/icmew2017/index.html) in ICME 2017 Workshop [[Result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)].
 - We rank 2nd on the Detection Track for [Large Scale 3D Human Activity Analysis Challenge in Depth Videos](http://www.icst.pku.edu.cn/struct/icmew2017/index.html) in ICME 2017 Workshop [[Result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)].
 
-
 ## Publications
 
-* [A comprehensive study on gait biometrics using a joint CNN-based method](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301694)  
+- Graph Convolution for Re-ranking in Person Re-identification  
+  **Yuqi Zhang**, Qi Qian, Chong Liu, Weihua Chen, Fan Wang, Hao Li, Rong Jin, International Conference on Acoustics, Speech, & Signal Processing(ICASSP), 2022
+- Adaptive matching strategy for multi-target multi-camera tracking  
+  Chong Liu, **Yuqi Zhang**, Weihua Chen, Fan Wang, Hao Li, Yidong Shen, International Conference on Acoustics, Speech, & Signal Processing(ICASSP), 2022
+- Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space  
+  Yaohua Wang, Yaobin Zhang, Fangyi Zhang, Senzhang Wang, Ming Lin, **Yuqi Zhang**, Xiuyu Sun, International Conference on Learning Representations(ICLR), 2022
+- [A comprehensive study on gait biometrics using a joint CNN-based method](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301694)  
   **Yuqi Zhang**, Yongzhen Huang, Liang Wang, Shiqi Yu, Pattern Recognition(PR), 2019
-* [Cross-view gait recognition by discriminative feature learning](https://ieeexplore.ieee.org/abstract/document/8759096)  
+- [Cross-view gait recognition by discriminative feature learning](https://ieeexplore.ieee.org/abstract/document/8759096)  
   **Yuqi Zhang**, Yongzhen Huang, Shiqi Yu, Liang Wang, IEEE Transactions on Image Processing(TIP), 2019
-* [Multi-task deep learning for fast online multiple object tracking](https://ieeexplore.ieee.org/abstract/document/8575813)  
+- [Multi-task deep learning for fast online multiple object tracking](https://ieeexplore.ieee.org/abstract/document/8575813)  
   **Yuqi Zhang**, Yongzhen Huang, Liang Wang, Asian Conference on Pattern Recognition(ACPR), 2017
-* [What makes for good multiple object trackers?](https://ieeexplore.ieee.org/abstract/document/7868601)  
+- [What makes for good multiple object trackers?](https://ieeexplore.ieee.org/abstract/document/7868601)  
   **Yuqi Zhang**, Yongzhen Huang, Liang Wang, IEEE Conference on Digital Signal Processing(DSP), 2016
-* [Scene text recognition with deeper convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/7351229)  
+- [Scene text recognition with deeper convolutional neural networks](https://ieeexplore.ieee.org/abstract/document/7351229)  
   **Yuqi Zhang,** Wei Wang, Liang Wang, Liuan Wang, IEEE International Conference on Image Processing (ICIP), 2015
