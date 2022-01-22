@@ -14,6 +14,7 @@ Email: zhangyuqi1991@gmail.com
 
 ## Activity
 
+- CVPR 2022 Reviewer
 - We rank the 2nd (2/263, top1%) place for Google Landmark Retrieval Competition on ICCV 2021. Also silver medal for Google Landmark Recognition Competition.  [[kaggle post](https://www.kaggle.com/c/landmark-retrieval-2021/discussion/277273)] [[code](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution)] [[paper](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution/blob/master/ILR2021_2nd_solution.pdf)] [[results](https://www.kaggle.com/c/landmark-retrieval-2021/leaderboard)][[video](https://www.youtube.com/watch?v=bkT2Judxf_s)][[slides](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution/blob/master/ILR21_RET_2nd-slides.pdf)]
 - We rank the 1st place for [Multi-camera Multi-Person tracking](https://iccv2021-mmp.github.io/) on ICCV 2021 [[results](https://competitions.codalab.org/competitions/33729#results)]
 - We rank the 1st place for [AICITY Challenge](https://www.aicitychallenge.org/) Track3 Multi-camera Vehicle Tracking on CVPR 2021. [[code](https://github.com/LCFractal/AIC21-MTMC)] [[paper](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Liu_City-Scale_Multi-Camera_Vehicle_Tracking_Guided_by_Crossroad_Zones_CVPRW_2021_paper.pdf)]
