@@ -14,7 +14,7 @@ Email: zhangyuqi1991@gmail.com
 
 ## Activity
 
-- CVPR 2022 Reviewer
+- CVPR/ECCV 2022 Reviewer
 - We rank the 2nd (2/263, top1%) place for Google Landmark Retrieval Competition on ICCV 2021. Also silver medal for Google Landmark Recognition Competition.  [[kaggle post](https://www.kaggle.com/c/landmark-retrieval-2021/discussion/277273)] [[code](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution)] [[paper](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution/blob/master/ILR2021_2nd_solution.pdf)] [[results](https://www.kaggle.com/c/landmark-retrieval-2021/leaderboard)][[video](https://www.youtube.com/watch?v=bkT2Judxf_s)][[slides](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution/blob/master/ILR21_RET_2nd-slides.pdf)]
 - We rank the 1st place for [Multi-camera Multi-Person tracking](https://iccv2021-mmp.github.io/) on ICCV 2021 [[results](https://competitions.codalab.org/competitions/33729#results)]
 - We rank the 1st place for [AICITY Challenge](https://www.aicitychallenge.org/) Track3 Multi-camera Vehicle Tracking on CVPR 2021. [[code](https://github.com/LCFractal/AIC21-MTMC)] [[paper](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Liu_City-Scale_Multi-Camera_Vehicle_Tracking_Guided_by_Crossroad_Zones_CVPRW_2021_paper.pdf)]
@@ -27,11 +27,13 @@ Email: zhangyuqi1991@gmail.com
 
 ## Publications
 
-- Graph Convolution for Re-ranking in Person Re-identification  
+- Revisiting instance search: a new benchmark using Cycle Self-Training  
+  **Yuqi Zhang**, Chong Liu, Weihua Chen, Xianzhe Xu, Fan Wang, Hao Li, Shiyu Hu, Xin Zhao, Neurocomputing, 2022
+- [Graph Convolution for Re-ranking in Person Re-identification](https://ieeexplore.ieee.org/document/9747298)  
   **Yuqi Zhang**, Qi Qian, Chong Liu, Weihua Chen, Fan Wang, Hao Li, Rong Jin, International Conference on Acoustics, Speech, & Signal Processing(ICASSP), 2022
-- Adaptive matching strategy for multi-target multi-camera tracking  
+- [Adaptive matching strategy for multi-target multi-camera tracking](https://ieeexplore.ieee.org/document/9746851)  
   Chong Liu, **Yuqi Zhang**, Weihua Chen, Fan Wang, Hao Li, Yidong Shen, International Conference on Acoustics, Speech, & Signal Processing(ICASSP), 2022
-- Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space  
+- [Ada-NETS: Face Clustering via Adaptive Neighbour Discovery in the Structure Space](https://arxiv.org/abs/2202.03800)  
   Yaohua Wang, Yaobin Zhang, Fangyi Zhang, Senzhang Wang, Ming Lin, **Yuqi Zhang**, Xiuyu Sun, International Conference on Learning Representations(ICLR), 2022
 - [A comprehensive study on gait biometrics using a joint CNN-based method](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301694)  
   **Yuqi Zhang**, Yongzhen Huang, Liang Wang, Shiqi Yu, Pattern Recognition(PR), 2019
