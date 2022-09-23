@@ -27,7 +27,9 @@ Email: zhangyuqi1991@gmail.com
 
 ## Publications
 
-- Revisiting instance search: a new benchmark using Cycle Self-Training  
+- [Beyond Classifiers: Remote Sensing Change Detection with Metric Learning](https://www.mdpi.com/2072-4292/14/18/4478)  
+  **Yuqi Zhang**, Wei Li, Yaohua Wang, Zhibin Wang, Hao Li, Remote Sensing, 2022
+- [Revisiting instance search: a new benchmark using Cycle Self-Training](https://www.sciencedirect.com/science/article/abs/pii/S0925231222007445)  
   **Yuqi Zhang**, Chong Liu, Weihua Chen, Xianzhe Xu, Fan Wang, Hao Li, Shiyu Hu, Xin Zhao, Neurocomputing, 2022
 - [Graph Convolution for Re-ranking in Person Re-identification](https://ieeexplore.ieee.org/document/9747298)  
   **Yuqi Zhang**, Qi Qian, Chong Liu, Weihua Chen, Fan Wang, Hao Li, Rong Jin, International Conference on Acoustics, Speech, & Signal Processing(ICASSP), 2022
