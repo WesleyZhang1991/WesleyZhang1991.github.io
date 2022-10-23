@@ -1,11 +1,12 @@
 # Yuqi Zhang 张宇琪
 
-Senior Algorithm Engineer at Alibaba DAMO Academy
+Senior Algorithm Engineer at Baidu Intelligent Driving Group (IDG).
 
 Email: zhangyuqi1991@gmail.com
 
 ## Biography
 
+- I worked as a senior algorithm engineer at DAMO Academy, Alibaba in 2019-2022.
 - In 2019, I received Ph.D. degree in Institute of Automation Chinese Academy of Sciences ([CASIA](http://www.ia.cas.cn/)) under the supervision of Prof. [Liang Wang](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/201010/t20101013_2986122.html).
 - In 2014, I received the Bachelor degree from Harbin Institute of Technology([HIT](http://en.hit.edu.cn/)) in Department of Control Science and Engineering.
 - My research interests include computer vision, image retrieval, video understanding in surveillance and object tracking.
