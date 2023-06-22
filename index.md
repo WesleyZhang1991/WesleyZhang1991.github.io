@@ -6,7 +6,8 @@ Email: zhangyuqi1991@gmail.com
 
 ## Biography
 
-- I worked as a senior algorithm engineer at DAMO Academy, Alibaba in 2019-2022.
+- I worked as a senior algorithm engineer at Baidu Intelligent Driving Group since 2012.10.
+- I worked as a senior algorithm engineer at DAMO Academy, Alibaba in 2019.07-2022.10.
 - In 2019, I received Ph.D. degree in Institute of Automation Chinese Academy of Sciences ([CASIA](http://www.ia.cas.cn/)) under the supervision of Prof. [Liang Wang](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/201010/t20101013_2986122.html).
 - In 2014, I received the Bachelor degree from Harbin Institute of Technology([HIT](http://en.hit.edu.cn/)) in Department of Control Science and Engineering.
 - My research interests include computer vision, image retrieval, video understanding in surveillance and object tracking.
@@ -15,6 +16,7 @@ Email: zhangyuqi1991@gmail.com
 
 ## Activity
 
+- We rank the 1st place for Drawings and abstract Imagery:  Representation and Analysis (DIRA) Competition on ECCV 2022. [[results](https://codalab.lisn.upsaclay.fr/competitions/5885#results)][[video](https://www.youtube.com/watch?v=bkT2Judxf_s)]
 - CVPR/ECCV 2022 Reviewer
 - We rank the 2nd (2/263, top1%) place for Google Landmark Retrieval Competition on ICCV 2021. Also silver medal for Google Landmark Recognition Competition.  [[kaggle post](https://www.kaggle.com/c/landmark-retrieval-2021/discussion/277273)] [[code](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution)] [[paper](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution/blob/master/ILR2021_2nd_solution.pdf)] [[results](https://www.kaggle.com/c/landmark-retrieval-2021/leaderboard)][[video](https://www.youtube.com/watch?v=bkT2Judxf_s)][[slides](https://github.com/WesleyZhang1991/Google_Landmark_Retrieval_2021_2nd_Place_Solution/blob/master/ILR21_RET_2nd-slides.pdf)]
 - We rank the 1st place for [Multi-camera Multi-Person tracking](https://iccv2021-mmp.github.io/) on ICCV 2021 [[results](https://competitions.codalab.org/competitions/33729#results)]
@@ -27,7 +29,8 @@ Email: zhangyuqi1991@gmail.com
 - We rank 2nd on the Detection Track for [Large Scale 3D Human Activity Analysis Challenge in Depth Videos](http://www.icst.pku.edu.cn/struct/icmew2017/index.html) in ICME 2017 Workshop [[Result](http://www.icst.pku.edu.cn/struct/icmew2017/result.html)].
 
 ## Publications
-
+- [Graph Convolution Based Efficient Re-Ranking for Visual Retrieval](https://ieeexplore.ieee.org/abstract/document/10124665)  
+**Yuqi Zhang**, Qi Qian, Hongsong Wang, Chong Liu, Weihua Chen, Fan Wang, IEEE Transactions on Multimedia, 2023
 - [Beyond Classifiers: Remote Sensing Change Detection with Metric Learning](https://www.mdpi.com/2072-4292/14/18/4478)  
   **Yuqi Zhang**, Wei Li, Yaohua Wang, Zhibin Wang, Hao Li, Remote Sensing, 2022
 - [Revisiting instance search: a new benchmark using Cycle Self-Training](https://www.sciencedirect.com/science/article/abs/pii/S0925231222007445)  
